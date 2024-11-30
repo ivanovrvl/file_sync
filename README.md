@@ -11,7 +11,9 @@
 ## How to use
 
 1. Create the inventory file of the remote folder 
-	<br><b>python sync.py hash <folder> [<use filters (true/false) default true>]</b>
+	<br><b>
+	>python sync.py hash <folder> [<use filters (true/false) default true>]
+	</b>
 	<br>inventory is created in the .hashes.json file in the folder root
 
 2. Create content-delta file (.zip) for the source folder based on .hashes.json of the remote folder
