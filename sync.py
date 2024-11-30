@@ -1,3 +1,5 @@
+# https://github.com/ivanovrvl/sync
+
 import os
 import sys
 import hashlib
