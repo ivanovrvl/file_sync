@@ -4,7 +4,8 @@
 * Offline synchronization using zipped content-delta file
 * Delete absent files is supported
 * Final folder state is checked 
-* Flexible folder/files excluding (by using sync_filters.py). *.log, *.bak files are ignored by default.
+* Flexible folder/files excluding (by using sync_filters.py).
+	Warning: *.log, *.bak files are ignored by default. Change file_filter function in the sync.py if needed.
 * No external dependencies
 
 ## How to use
