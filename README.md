@@ -1,4 +1,4 @@
-# Offline folder content synchronization utility
+# Offline folder synchronization utility
 ## Features
 * Content-delta file is calculated based on inventory file .hashes.json containing contains SHA256 file hashes
 * Offline synchronization using zipped content-delta file
